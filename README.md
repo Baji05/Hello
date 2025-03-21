@@ -1,3 +1,3 @@
 # Hello
-Just cool 
+cool buddy
 
